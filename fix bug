@@ -1,0 +1,2 @@
+Fix problem with Audio_SetVolume. 
+When i set the 3D position of the sound but after i set the volume with function, this is wrong and do not set the volume..
